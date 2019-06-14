@@ -23,7 +23,7 @@ worksheet = workbook.add_sheet('Sheet 1')
 
 # 获取数据并保存数据
 page = 1
-while page <=100:
+while page <= 100:
     k = 0
     req_url = poi_search_url + 'key=' + str(amap_api_key) + '&location=' + str(location) + '&radius=' + str(radius) + '&types=' + str(types) + '&page=' + str(page)
     while k<= 19:
@@ -42,7 +42,7 @@ while page <=100:
             try:
                 test = requests.get(test_url)
                 test.raise_for_status()
-                print("数据获取完成，请至爬虫目录下查看。")
+                print("数据获取完成。")
                 page = 1000
                 k = 1000
             except:
@@ -53,3 +53,4 @@ while page <=100:
 
 # 保存文件
 workbook.save(file_name)
+print("文件保存成功，请至爬虫所在目录下查看文件。")
