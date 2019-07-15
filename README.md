@@ -8,4 +8,4 @@
 
 此程序为编者的第一个Python程序，仍有不足。不过也利用时间把之前答应的功能更新了。
 
-博客链接:https://www.shawnhuangyh.com/archives/50/
+博客链接：https://www.shawnhuangyh.com/archives/53/
