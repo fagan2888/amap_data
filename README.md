@@ -1,12 +1,12 @@
 # amap_data
 ## English instructions
-This reporsitory is based on Python, and requires Requests, xlwt. Please install Requests and xlwt first if you haven't installed.
+This repository is based on Python, and requires Requests, xlwt. Please install Requests and xlwt first if you haven't installed.
 
-This reporsitory now can export xls file automatically, please refer to the sources cold for instructions.
+This repository now can export xls file automatically, please refer to the sources cold for instructions.
 
 The key should be filled by user and can request from Amap api. You can request from here:https://lbs.amap.com/
 
-This is the first Python progamme I have ever made, so there's still a lot of place for improvement, thanks for your using.
+This is the first Python pregame I have ever made, so there's still a lot of place for improvement, thanks for your using.
 
 ## 中文说明
 此项目基于Python，需要调用第三方库Requests和Xlwt。如果没有安装，请自行安装Requests和Xlwt库。
@@ -21,3 +21,4 @@ This is the first Python progamme I have ever made, so there's still a lot of pl
 
 ## To Do
 + ~~English README~~
++ To be assigned
