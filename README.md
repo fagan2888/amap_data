@@ -1,15 +1,17 @@
-# amap_data
+# amap_data_dev
 ## English instructions
 This repository is based on Python, and requires Requests, xlwt. Please install Requests and xlwt first if you haven't installed.
 
 This repository now can export xls file automatically, please refer to the sources cold for instructions.
 
-The key should be filled by user and can request from Amap api. You can request from here:https://lbs.amap.com/
+The key should be filled by user and can request from Amap API. You can request from here:https://lbs.amap.com/
 
 This is the first Python pregame I have ever made, so there's still a lot of place for improvement, thanks for your using.
 
+This branch is for develop purpose.
+
 ## 中文说明
-此项目基于Python，需要调用第三方库Requests和Xlwt。如果没有安装，请自行安装Requests和Xlwt库。
+此项目基于Python，需要调用第三方库Requests和xlwt。如果没有安装，请自行安装Requests和xlwt库。
 
 当前此项目已经可以在自动输出成Excel表格文件，详细使用请自行查看代码。
 
